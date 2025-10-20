@@ -14,7 +14,6 @@ public class Main {
         result = getNumberOfSubBreeds(breed, breedFetcher);
         System.out.println(breed + " has " + result + " sub breeds");
     }
-
     /**
      * Return the number of sub breeds that the given dog breed has according to the
      * provided fetcher.
